@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+h1 {font-family:georgia;font-style:itallic;}
+body {background-image:url("sam.jpg"); </style>
 
 
 <title>rnw poem</title>
