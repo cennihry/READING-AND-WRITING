@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  body {background-image:url=('sam2.jpg');}
+  body {background-image:url=("sam2.jpg");}
 </style>
 
 
