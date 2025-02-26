@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-h1 {font-family:georgia;font-style:itallic;}
-body {background-image:url("sam.jpg"); </style>
 
 
-<title>rnw poem</title>
+
+
 </head>
 <body style="background-color:#6FF0FF;">
-<h4 align:center;>Samantha Quiatson<br>
+Samantha Quiatson
 11-Agoncillo
-<h1 text-align:center;>
+
 <div style="background-color:#3AD6E8;font-size:20px;">We might not say it, but our <a href="https://www.merriam-webster.com/dictionary/eye">eyes</a> can.<br> <br>
 
 <br>I tell you I don’t feel a thing,<br>
