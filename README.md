@@ -6,7 +6,7 @@
 
 
 </head>
-<body style="background-color:#6FF0FF;">
+<body style="background-color:#6FF0FF;background-image:url("sam2.jpg");">
 Samantha Quiatson
 11-Agoncillo
 
