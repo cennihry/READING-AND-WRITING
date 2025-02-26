@@ -13,7 +13,7 @@
 Samantha Quiatson
 11-Agoncillo
 
-<div style="background-color:#3AD6E8;font-size:20px;">We might not say it, but our <a href="https://www.merriam-webster.com/dictionary/eye">eyes</a> can.<br> <br>
+<div style="background-color:#3AD6E8;font-size:20px;text-align:center;">We might not say it, but our <a href="https://www.merriam-webster.com/dictionary/eye">eyes</a> can.<br> <br>
 
 <br>I tell you I don’t feel a thing,<br>
 just a passing <a href="https://www.merriam-webster.com/dictionary/breeze">breeze</a>, a fleeting sting.<br>
